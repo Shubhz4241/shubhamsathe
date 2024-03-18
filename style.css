@@ -1,0 +1,151 @@
+.container1{
+    border-bottom: 8px;
+    border-color: #efe8e8;
+}
+
+.navigation{
+    height: 0vh;
+    width: 213vh;
+    word-spacing: 1rem;
+    border: 10px;
+}
+
+.navigation ul{
+    display: flex;
+    list-style-type: none;
+    padding: 18px;
+    background-color: #272525;
+    word-spacing: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(248, 249, 247);
+    
+}
+
+.sub{
+    display: flex;
+    margin-left: 600px;
+}
+.head ul li{
+    margin-left: 10px;
+    
+}
+
+.head ul img{
+    margin-top: -4px;
+    margin-left: 30px;
+}
+
+.head ul p{
+    margin-top: -15px;
+    padding: 15px;
+    color: rgb(209, 249, 52);
+}
+.head ul li p{
+    margin-top: -25px;
+    margin-left: -90px;
+}
+
+.mid{
+    width: 213vh;
+    height: 100vh;
+    margin-top: 50px;    
+    color: white;
+    background-color: rgb(2, 11, 36);
+    background-image: url(design-background-portfolio.jpg);
+}
+
+.mid h1{
+    font-size: 5rem;
+    margin-top: 200px;
+    margin-left: 160px;
+}
+
+.mid ul li img{
+    margin-top: 150px;
+    margin-left: 150px;
+    border-radius: 40%;
+}
+
+.mid p1{
+    font-size: 2rem;
+    margin-left: 200px;
+}
+
+.mid p2{
+    font-size: 1.2rem;
+    margin-left: 200px;
+}
+
+.mid button{
+    margin-left: 200px;
+    margin-top: 15px;
+    color: aliceblue;
+    background-color: rgba(19, 13, 62, 0.151);
+    font-size: 1.2rem;
+    border-color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.mid ul{
+    display: flex;
+}
+
+.mid img{
+    margin-left: 110px;
+    margin-top: 50px;
+    border-bottom: #efe8e8;
+}
+
+.mid li img{
+    margin-left: 1060px;
+    margin-top: -20px;
+}
+
+.Middle{
+    height: 70vh;
+    width: 213vh;
+    background-image: url(images.jpg);
+    color: #efe8e8;
+}
+
+.name{
+    padding-left: 50px;
+    display: flex;
+}
+
+.name li{
+    padding: 100px;
+    text-align: justify;
+    list-style: none;
+    color: #efe8e8;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.name li button{
+    font-size: 1.5rem;
+    color: #191616;
+    background-color: #d7ebf477;
+    border: none;
+    border-radius: 5px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.name li p1 button{
+    margin-top: 20px;
+    font-size: 1rem;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.name li p2 button{
+    margin-top: 20px;
+    font-size: 1rem;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.name li p3 button{
+    margin-top: 20px;
+    font-size: 1rem;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
